@@ -1,3 +1,5 @@
 **/*.pt
 **/*.pth
 downloads/
+viz_pkl_predictions/
+**/__pycache__/
